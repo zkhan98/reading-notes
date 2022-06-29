@@ -1,5 +1,5 @@
 # reading-notes
-## my learning journal for code fellows
+## my learning journal
 
 *A growth mindset will help me to be successful*
 

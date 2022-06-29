@@ -7,4 +7,4 @@
 - Ask for help
 - Don't forget where you started from
 
-~This was a mistake. remove please~
+~~This was a mistake. remove please~~

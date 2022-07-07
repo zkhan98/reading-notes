@@ -2,10 +2,25 @@
 
 ## What is Javascript?
   - Most well known as the scripting language for web pages
-  - Don't confuse Java with Javascript. They are both two different languages that use different syntax, semantics, and use 
+  - Don't confuse **Java** with **Javascript**. They are both two different languages that use different syntax, semantics, and use 
   - JS is involved in the complex parts of a website (moving pictures, scrolling videos, etc)
-  - 
-  - 
+  - JavaScript variables, containers for storing data values, can be:
+    - Numbers
+    - Strings
+    - Objects
+    - Arrays
+    - Functions
+  - To declare a JS variable they can be written using
+      - var
+      - let
+      - const
+      - nothing
+
+## Structure of a webpage
+  - HTML
+  - CSS
+  - JS
+
 
 ## DOM Meaning
   - Document Object Model
